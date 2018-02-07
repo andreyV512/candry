@@ -1,0 +1,17 @@
+/***********************************************************************************\
+* Copyright (c) CJSC "Rudnev-Shilyaev"                                              *            
+*************************************************************************************
+* File Name:     VT_Drivers.ri                                                      *
+* Description:   This file contains Windows registry paths for regsvr32 service     *               
+* Revision:      23-01-13 : RSH SDK v2.00                                           *
+\***********************************************************************************/
+
+#define CompanyNameDRV "Virtual Tools LTD"
+#define ProductNameDRV "Drivers"
+
+
+#define VersionNameDRV "2.0"
+
+
+
+#define RSH_KEY_PATH_DRV CompanyNameDRV "\\" ProductNameDRV "\\" VersionNameDRV 
